@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color:rgb(53, 53, 53);
+    background-color:rgb(182, 182, 182);
     color: #333;
 }
 
@@ -15,7 +15,7 @@ header {
 }
 
 nav a {
-    color: white;
+    color: rgb(226, 166, 0);
     margin: 0 15px;
     text-decoration: none;
 }
@@ -35,8 +35,8 @@ section {
 button {
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #007BFF;
-    color: white;
+    background-color: #ff9900;
+    color: rgb(0, 0, 0);
     border: none;
     border-radius: 5px;
     cursor: pointer;
